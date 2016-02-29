@@ -6,7 +6,7 @@
          "websiteURL":"https://sodaq.com",
          "email":"info@sodaq.com",
          "help":{
-            "online":"https://forum.sodaq.com"
+            "online":"http://forum.sodaq.com"
          },
          "platforms":[
             {
@@ -19,7 +19,7 @@
                "checksum":"SHA-256:1c8dbb3f8ceda725c0e01124c39002d06a417acf04cec47d707a0e91aaa8c43b",
                "size":"4959",
                "help":{
-                  "online":"https://forums.sodaq.com"
+                  "online":"http://forum.sodaq.com"
                },
                "boards":[
                   { "name":"SODAQ Mbili" },
@@ -49,7 +49,7 @@
                "checksum":"SHA-256:b7411d0ac868ecef1637bc222d3c5df34020362592c8d5316d394a734352fb5e",
                "size":"4975",
                "help":{
-                  "online":"https://forums.sodaq.com"
+                  "online":"http://forum.sodaq.com"
                },
                "boards":[
                   { "name":"SODAQ Mbili" },
@@ -79,7 +79,7 @@
                "checksum":"SHA-256:c8240ff2b10983219538af72d4026674d34a627f6db4341de84ad6d5b29472b5",
                "size":"6529",
                "help":{
-                  "online":"https://forums.sodaq.com"
+                  "online":"http://forum.sodaq.com"
                },
                "boards":[
                   { "name":"SODAQ Mbili" },
@@ -109,7 +109,7 @@
                "checksum":"SHA-256:100fbcf95eef3be5408806d3a15224ecb8d5b7564cbe22e45d58524739c80747",
                "size":"33658",
                "help":{
-                  "online":"https://forums.sodaq.com"
+                  "online":"http://forum.sodaq.com"
                },
                "boards":[
                   { "name":"SODAQ Mbili" },
@@ -139,7 +139,7 @@
                "checksum":"SHA-256:9d119bc54fa437d3fc7074459a006f4cc1f0792557a376f5433224b6dc9aa241",
                "size":"175026",
                "help":{
-                  "online":"https://forums.sodaq.com"
+                  "online":"http://forum.sodaq.com"
                },
                "boards":[
                   { "name":"SODAQ Autonomo" }
@@ -177,7 +177,7 @@
                "checksum":"SHA-256:21a09831fcecdcd9da40ec705ca9696a4dafc1530fd45b279fa4acb7965edba4",
                "size":"175107",
                "help":{
-                  "online":"https://forums.sodaq.com"
+                  "online":"http://forum.sodaq.com"
                },
                "boards":[
                   { "name":"SODAQ Autonomo" }
@@ -215,7 +215,7 @@
                "checksum":"SHA-256:bff50c66960cffef6434be6f3b248b64fcc6dbcd54a71857b295e9cef21f86cc",
                "size":"176127",
                "help":{
-                  "online":"https://forums.sodaq.com"
+                  "online":"http://forum.sodaq.com"
                },
                "boards":[
                   { "name":"SODAQ Autonomo" }
@@ -253,7 +253,7 @@
                "checksum":"SHA-256:ea2b167544ec39584e759070e9b87919102336acaed7bfbd0c399b6b83daae59",
                "size":"174834",
                "help":{
-                  "online":"https://forums.sodaq.com"
+                  "online":"http://forum.sodaq.com"
                },
                "boards":[
                   { "name":"SODAQ Autonomo" }
@@ -291,7 +291,7 @@
                "checksum":"SHA-256:970a7a3c9c8c8289ffe194d60ed243869a20f391ab54edd81986774806e92f27",
                "size":"321319",
                "help":{
-                  "online":"https://forums.sodaq.com"
+                  "online":"http://forum.sodaq.com"
                },
                "boards":[
                   { "name": "SODAQ Autonomo" }
@@ -329,7 +329,7 @@
                "checksum":"SHA-256:cc4c3c109e271b917403e05a4cb0a93501af90f8baa1a8b3b447af392e32fa30",
                "size":"321771",
                "help":{
-                  "online":"https://forums.sodaq.com"
+                  "online":"http://forum.sodaq.com"
                },
                "boards":[
                   { "name": "SODAQ Autonomo" }
@@ -367,7 +367,7 @@
                "checksum":"SHA-256:c951f6c568b4211ef1553e31b2e228f9b46c41cf34d0e18ceca0ab6e39809897",
                "size":"322302",
                "help":{
-                  "online":"https://forums.sodaq.com"
+                  "online":"http://forum.sodaq.com"
                },
                "boards":[
                   { "name": "SODAQ Autonomo" }
